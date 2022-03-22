@@ -1,0 +1,19 @@
+
+react js is the framework of javascript..
+sometimes peoples says that it is a library of javascript.
+so library and framework both the words are used alternatively...
+
+
+why to use react..?
+--> by using react we will less javascript code and our code will be organised way.
+    you use API very easily
+    single page application are created by using react.
+
+react is having two components
+1. function based components
+2. class based components
+
+JSX is 90 to 95 % html
+
+react prefers camel case
+i.e tabIndex, htmlFor, etc.
