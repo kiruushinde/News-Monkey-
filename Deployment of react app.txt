@@ -1,0 +1,16 @@
+here we will see how to deploy our react app on git-hub.
+
+1. npm run build <-- type this command first
+2. go on website "deployment of create my react app"
+3. search git hug pages
+4. before that open your gitHub account and respective repository
+    and inside the settings on on gitHub pages.
+    select your branch and save it.
+5. go back on gitHub pages and copy the first command and paste it in 
+    package.json (at first)
+6. change your username and put the name of your repository
+7. install the package from git hub pages
+    "npm install --save gh-pages"
+8. add two lines in script which are given on website (github pages)
+9. and finally run a command 
+    ""
